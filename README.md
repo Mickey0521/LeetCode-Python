@@ -50,3 +50,6 @@ Chapter 8 Dynamic Programming
 - [152_Maximum_Product_Subarray_Medium_brute_force](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/maximum_product_subarray_brute_force.py)
 
 Chapter 9 Binary Search
+- [35_Search_Insert_Position_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/search_insert_position.py)
+- [153_Find_Minimum_in_Rotated_Sorted_Array_Medium_O_n](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/find_minimum_in_rotated_sorted_array_O_n.py)
+- [153_Find_Minimum_in_Rotated_Sorted_Array_Medium_O_lgn](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/find_minimum_in_rotated_sorted_array.py)

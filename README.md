@@ -34,6 +34,9 @@ Chapter 5 Bit Manipulation
 - [137_Single_Number_II_Medium](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/single_number_II.py)
 
 Chapter 6 Misc
+- [12_Integer_to_Roman_Medium](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/single_number.py)
+- [13_Roman_to_Integer_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/roman_to_integer.py)
+- [54_Spiral_Matrix_Medium](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/spiral_matrix.py)
 
 Chapter 7 Stack
 

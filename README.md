@@ -39,6 +39,9 @@ Chapter 6 Misc
 - [54_Spiral_Matrix_Medium](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/spiral_matrix.py)
 
 Chapter 7 Stack
+- [20_Valid_Parentheses_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/valid_parentheses.py)
+- [150_Evaluate_Reverse_Polish_Notation_Medium](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/evaluate_reverse_polish_notation.py)
+- [155_Min_Stack_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/min_stack.py)
 
 Chapter 8 Dynamic Programming
 

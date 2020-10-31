@@ -18,6 +18,9 @@ Chapter 2 Math
 - [66_Plus_One_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/plus_one.py)
 
 Chapter 3 Linked_List
+- [2_Add_Two_Numbers_Medium](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/add_two_numbers.py)
+- [21_Merge_Two_Sorted_Lists_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/merge_two_sorted_lists.py)
+- [24_Swap_Nodes_in_Pairs_Medium](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/swap_nodes_in_pairs.py)
 
 Chapter 4 Binary _Tree
 

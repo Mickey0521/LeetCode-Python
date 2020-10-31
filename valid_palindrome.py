@@ -1,28 +1,3 @@
-125. Valid Palindrome
-Easy
-
-1124
-
-2806
-
-Add to List
-
-Share
-Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
-
-Note: For the purpose of this problem, we define empty string as valid palindrome.
-
-Example 1:
-
-Input: "A man, a plan, a canal: Panama"
-Output: true
-Example 2:
-
-Input: "race a car"
-Output: false
-
-##########################################################################
-
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         
@@ -54,18 +29,3 @@ class Solution:
         # be careful: ignoring cases, so we use '.lower()'
         
         return True
-
-##########################################################################
-
-Success
-Details 
-Runtime: 56 ms, faster than 38.85% of Python3 online submissions for Valid Palindrome.
-Memory Usage: 15 MB, less than 28.98% of Python3 online submissions for Valid Palindrome.
-
-##########################################################################
-
-# note: what about an empty string? 
-empty string is a valid palindrome.
-
-# O(n) runtime
-The idea is simpe, use two pointers (head and tail).

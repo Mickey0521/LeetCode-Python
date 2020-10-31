@@ -53,3 +53,6 @@ Chapter 9 Binary Search
 - [35_Search_Insert_Position_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/search_insert_position.py)
 - [153_Find_Minimum_in_Rotated_Sorted_Array_Medium_O_n](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/find_minimum_in_rotated_sorted_array_O_n.py)
 - [153_Find_Minimum_in_Rotated_Sorted_Array_Medium_O_lgn](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/find_minimum_in_rotated_sorted_array.py)
+
+Reference
+- [50 COMMON INTERVIEW QUESTIONS](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/CleanCodeHandbook_v1.0.1_cckao_v2.pdf)

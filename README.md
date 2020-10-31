@@ -30,6 +30,8 @@ Chapter 4 Binary _Tree
 - [111_Minimum_Depth_of_Binary_Tree_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/minimum_depth_of_binary_tree.py)
 
 Chapter 5 Bit Manipulation
+- [136_Single_Number_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/single_number.py)
+- [137_Single_Number_II_Medium](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/single_number_II.py)
 
 Chapter 6 Misc
 

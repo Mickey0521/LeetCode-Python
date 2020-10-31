@@ -44,5 +44,9 @@ Chapter 7 Stack
 - [155_Min_Stack_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/min_stack.py)
 
 Chapter 8 Dynamic Programming
+- [62_Unique_Paths_Medium](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/unique_paths.py)
+- [70_Climbing_Stairs_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/climbing_stairs.py)
+- [152_Maximum_Product_Subarray_Medium_dynamic_programming](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/maximum_product_subarray.py)
+- [152_Maximum_Product_Subarray_Medium_brute_force](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/maximum_product_subarray_brute_force.py)
 
 Chapter 9 Binary Search

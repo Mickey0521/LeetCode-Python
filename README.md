@@ -23,6 +23,11 @@ Chapter 3 Linked_List
 - [24_Swap_Nodes_in_Pairs_Medium](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/swap_nodes_in_pairs.py)
 
 Chapter 4 Binary _Tree
+- [98_Validate_Binary_Search_Tree_Medium](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/98_Validate_Binary_Search_Tree_Medium.py)
+- [104_Maximum_Depth_of_Binary_Tree_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/104_Maximum_Depth_of_Binary_Tree_Easy.py)
+- [108_Convert_Sorted_Array_to_Binary_Search_Tree_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/108_Convert_Sorted_Array_to_Binary_Search_Tree_Easy.py)
+- [110_Balanced_Binary_Tree_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/110_Balanced_Binary_Tree_Easy.py)
+- [111_Minimum_Depth_of_Binary_Tree_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/111_Minimum_Depth_of_Binary_Tree_Easy.pyy)
 
 Chapter 5 Bit Manipulation
 

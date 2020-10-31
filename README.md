@@ -13,6 +13,9 @@ Chapter 1 Array String
 - [167_Two_Sum_II_Input_array_is_sorted_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/two_sum_II.py)
 
 Chapter 2 Math
+- [7_Reverse_Integer_Easy.py](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/reverse_integer.py)
+- [9_Palindrome_Number_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/palindrome_number.py)
+- [66_Plus_One_Easy](https://github.com/Mickey0521/LeetCode-COMMON-INTERVIEW-QUESTIONS-Python/blob/main/plus_one.py)
 
 Chapter 3 Linked_List
 
